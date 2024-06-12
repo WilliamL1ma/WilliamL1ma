@@ -1,10 +1,11 @@
 # Oláá! Eu sou o Will 👋
-
 <div>
-  <a href="https://github.com/WilliamL1ma?">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamL1ma&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamL1ma&layout=compact&langs_count=16&theme=github_dark"/>
+  <a href="https://github.com/WilliamL1ma">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamL1ma&show_icons=true&theme=holi&include_all_commits=true&count_private=true" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamL1ma&layout=compact&langs_count=16&theme=holi" />
   </a>
+</div>
+
 <div style="display: inline_block"><br>
 <img align="center" alt="will-Python" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="will-Csharp" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
