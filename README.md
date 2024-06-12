@@ -50,6 +50,9 @@
 - **Bancos de Dados**: Ainda aprendendo sobre SQL.
 - **Ferramentas de Desenvolvimento**: Começando a usar ferramentas como Git e GitHub.
 
+## Projetos
+- Calculadora Do Iphone
+
 ## Contato
 
 - **LinkedIn**: [William Lima](https://www.linkedin.com/in/william-l1ma/)
