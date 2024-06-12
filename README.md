@@ -51,7 +51,7 @@
 - **Ferramentas de Desenvolvimento**: Começando a usar ferramentas como Git e GitHub.
 
 ## Projetos
-- Calculadora Do Iphone
+- Calculadora do Iphone
 
 ## Contato
 
