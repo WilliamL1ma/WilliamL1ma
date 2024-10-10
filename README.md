@@ -33,7 +33,7 @@
 
 - 🎓 Estudando para ser Engenheiro de Software.
 - 💻 Interessado principalmente em desenvolvimento backend.
-- 🌱 Atualmente aprendendo sobre Python
+- 🌱 Atualmente aprendendo sobre Python.
 - 🤝 Aberto a oportunidades de aprendizado e colaboração em projetos.
 
 ## Áreas de Interesse
