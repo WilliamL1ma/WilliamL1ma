@@ -7,11 +7,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-<img align="center" alt="will-Python" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="will-Csharp" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="center" alt="will-HTML" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="will-CSS" height="50" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="will-js" height="50" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+<img src="https://skillicons.dev/icons?i=python,js,java,html,css,vscode,pycharm"/>
 </div>
 <div>
   <a href="https://www.instagram.com/_.lima436/" target="_blank">
