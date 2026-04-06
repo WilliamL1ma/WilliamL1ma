@@ -1,58 +1,42 @@
-# Oláá! Eu sou o Will 👋
-<div>
-  <a href="https://github.com/WilliamL1ma">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamL1ma&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamL1ma&layout=compact&langs_count=16&theme=dark" />
-  </a>
+# 👨‍💻 William Lima
+**Software Engineering Student | AI Researcher | Backend Developer**
+
+Engenheiro de software em formação, com experiência prática em NLP e desenvolvimento backend. Foco em sistemas escaláveis, desde a modelagem de dados até a implementação de pipelines de IA.
+
+---
+
+### 🧠 Domínios Técnicos
+
+| Ecossistema | Tecnologias |
+| :--- | :--- |
+| **Artificial Intelligence** | `PyTorch` `Transformers` `NLP` `Scikit-learn` `Optuna` |
+| **Backend Development** | `Python` `Django` `Flask` `Java` `MySQL` `PostgreSQL` |
+| **Game Engineering** | `Logic & State Management` `POO Avançada` `C#` |
+| **Dev Tools & OS** | `Git` `Docker` `Linux (WSL2)` `VS Code` `PyCharm` |
+
+---
+
+### 🔬 Laboratório & Projetos em Destaque
+
+#### 🤖 [Estudo ML: Political-BRSD](https://github.com/WilliamL1ma/estudo_ML_Political-BRSD)
+Pesquisa aplicada em NLP para classificação de discursos políticos brasileiros.
+- **Destaque:** Identificação de ruído em datasets reais e fine-tuning de modelos Transformers (BERTimbau).
+- **Tech:** Python, HuggingFace, Optuna, Matplotlib.
+
+#### ⚔️ [RPG System Engine](https://github.com/WilliamL1ma)
+Motor de RPG em turnos focado em lógica de herança e mecânicas dinâmicas.
+- **Destaque:** Implementação de sistema de classes evolutivas e mecânicas de "Nemesis".
+- **Tech:** Python, Programação Orientada a Objetos Avançada.
+
+---
+
+### 🛠️ Toolbox
+<div style="display: inline_block">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,django,mysql,js,java,cs,git,linux,vscode" />
 </div>
 
-<div style="display: inline_block"><br>
-<img src="https://skillicons.dev/icons?i=python,js,java,html,css,vscode,pycharm"/>
-</div>
-<div>
-  <a href="https://www.instagram.com/_.lima436/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-323446?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discord.gg/FFaCyYtm6w" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:williamgcrlima@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/william-l1ma/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div> 
+---
 
-  
-## Sobre Mim
-
-- 🎓 Estudando para ser Engenheiro de Software.
-- 💻 Interessado principalmente em desenvolvimento backend.
-- 🌱 Atualmente aprendendo sobre Python.
-- 🤝 Aberto a oportunidades de aprendizado e colaboração em projetos.
-
-## Áreas de Interesse
-
-- **Backend Development**: Estou começando a explorar o mundo do desenvolvimento backend.
-- **Frontend Development**: Também tenho curiosidade sobre como criar interfaces de usuário.
-- **DevOps**: Interesse em aprender sobre como operações e desenvolvimento podem trabalhar juntos.
-- **Mobile Development**: Gostaria de aprender a desenvolver aplicativos móveis no futuro.
-- **Data Science**: Fascinado pelo poder dos dados e como eles podem ser utilizados para contar histórias.
-
-## Tecnologias e Ferramentas
-
-- **Linguagens de Programação**: Atualmente aprendendo Python, HTML, CSS, JavaScript e C#.
-- **Frameworks e Bibliotecas**: Explorando Django e Flask.
-- **Bancos de Dados**: Ainda aprendendo sobre SQL.
-- **Ferramentas de Desenvolvimento**: Começando a usar ferramentas como Git e GitHub.
-
-## Projetos
-- https://rota-site.onrender.com/
-- Estudos ML
-- Jogo RPG - Py
-
-## Contato
-
-- **LinkedIn**: [William Lima](https://www.linkedin.com/in/william-l1ma/)
-- **Email**: [williamgcrlima@gmail.com](mailto:williamgcrlima@gmail.com)
+### 📫 Conecte-se comigo
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-l1ma/)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:williamgcrlima@gmail.com)
