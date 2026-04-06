@@ -48,9 +48,9 @@
 - **Ferramentas de Desenvolvimento**: Começando a usar ferramentas como Git e GitHub.
 
 ## Projetos
-- Calculadora do Iphone
-- MyTasks
 - https://rota-site.onrender.com/
+- Estudos ML
+- Jogo RPG - Py
 
 ## Contato
 
