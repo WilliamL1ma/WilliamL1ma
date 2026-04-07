@@ -23,7 +23,7 @@ Pesquisa aplicada em NLP para classificação de discursos políticos brasileiro
 - **Destaque:** Identificação de ruído em datasets reais e fine-tuning de modelos Transformers (BERTimbau).
 - **Tech:** Python, HuggingFace, Optuna, Matplotlib.
 
-#### ⚔️ [RPG System Engine]([https://github.com/WilliamL1ma](https://github.com/WilliamL1ma/RPG_terminal))
+#### ⚔️ [RPG System Engine](https://github.com/WilliamL1ma/RPG_terminal)
 Motor de RPG em turnos focado em lógica de herança e mecânicas dinâmicas.
 - **Destaque:** Implementação de sistema de classes evolutivas e mecânicas de "Nemesis".
 - **Tech:** Python, Programação Orientada a Objetos Avançada.
