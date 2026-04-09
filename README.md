@@ -9,7 +9,7 @@ Engenheiro de software em formação, com experiência prática em NLP e desenvo
 
 | Ecossistema | Tecnologias |
 | :--- | :--- |
-| **Artificial Intelligence** | `PyTorch` `Transformers` `NLP` `Scikit-learn` `Optuna` |
+| **Artificial Intelligence** | `PyTorch` `Transformers` `NLP` `Scikit-learn` `Optuna` `LangChain` `LangGraph` |
 | **Backend Development** | `Python` `Django` `Flask` `Java` `MySQL` `PostgreSQL` |
 | **Game Engineering** | `Logic & State Management` `POO Avançada` `C#` |
 | **Dev Tools & OS** | `Git` `Docker` `Linux (WSL2)` `VS Code` `PyCharm` |
